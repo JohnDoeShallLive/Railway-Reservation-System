@@ -156,10 +156,6 @@ Commit your changes and push them to your fork.
 
 Submit a pull request describing your changes.
 
-License
+Contact - Shreyash Sule
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Contact
-
-For any queries or suggestions, please contact the repository owner via GitHub
+For any queries or suggestions, please contact shreyashsule22@gmail.com
